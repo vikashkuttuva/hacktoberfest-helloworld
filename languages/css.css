@@ -1,0 +1,4 @@
+/* Apply to any site */
+*::after {
+    content: "Hello, World";
+}
