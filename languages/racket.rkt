@@ -1,1 +1,3 @@
+#lang racket
+
 "Hello, world!"
